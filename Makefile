@@ -1,4 +1,4 @@
-TAG = 1.0.6
+TAG = 1.0.7
 
 release:
 	gradle assembleRelease
